@@ -371,7 +371,6 @@ export class GridView extends LitElement {
         transform: translateZ(0);
         position: relative;
         color: var(--primary-text-color);
-        background: var(--lovelace-background, var(--primary-background-color));
       }
 
       lit-grid-layout {
